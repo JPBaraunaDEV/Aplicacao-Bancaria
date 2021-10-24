@@ -1,0 +1,16 @@
+C:\Users\JPRB\Desktop\projetos\dio\cs\bank\bin\Debug\net5.0\bank.exe
+C:\Users\JPRB\Desktop\projetos\dio\cs\bank\bin\Debug\net5.0\bank.deps.json
+C:\Users\JPRB\Desktop\projetos\dio\cs\bank\bin\Debug\net5.0\bank.runtimeconfig.json
+C:\Users\JPRB\Desktop\projetos\dio\cs\bank\bin\Debug\net5.0\bank.runtimeconfig.dev.json
+C:\Users\JPRB\Desktop\projetos\dio\cs\bank\bin\Debug\net5.0\bank.dll
+C:\Users\JPRB\Desktop\projetos\dio\cs\bank\bin\Debug\net5.0\ref\bank.dll
+C:\Users\JPRB\Desktop\projetos\dio\cs\bank\bin\Debug\net5.0\bank.pdb
+C:\Users\JPRB\Desktop\projetos\dio\cs\bank\obj\Debug\net5.0\bank.csproj.AssemblyReference.cache
+C:\Users\JPRB\Desktop\projetos\dio\cs\bank\obj\Debug\net5.0\bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JPRB\Desktop\projetos\dio\cs\bank\obj\Debug\net5.0\bank.AssemblyInfoInputs.cache
+C:\Users\JPRB\Desktop\projetos\dio\cs\bank\obj\Debug\net5.0\bank.AssemblyInfo.cs
+C:\Users\JPRB\Desktop\projetos\dio\cs\bank\obj\Debug\net5.0\bank.csproj.CoreCompileInputs.cache
+C:\Users\JPRB\Desktop\projetos\dio\cs\bank\obj\Debug\net5.0\bank.dll
+C:\Users\JPRB\Desktop\projetos\dio\cs\bank\obj\Debug\net5.0\ref\bank.dll
+C:\Users\JPRB\Desktop\projetos\dio\cs\bank\obj\Debug\net5.0\bank.pdb
+C:\Users\JPRB\Desktop\projetos\dio\cs\bank\obj\Debug\net5.0\bank.genruntimeconfig.cache
